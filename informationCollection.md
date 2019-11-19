@@ -1,17 +1,17 @@
-#Resources might be used  
+# Resources might be used  
 
-##For input  
+## For input  
 
-####1. Get input
+#### 1. Get input
 > //TODO**
 
 
 
-##For main functions  
+## For main functions  
 
-####1. check password  
+#### 1. check password  
 
-```
+``` 
 void checkPassword(){
   if (password.evaluate()){
     digitalWrite(greenLED, HIGH);
@@ -38,12 +38,13 @@ void checkPassword(){
     displayCodeEntryScreen();
   }
 }
-```
-[Resources from](https://www.instructables.com/id/Arduino-password-lock/)
+``` 
+[Resources from](https://www.instructables.com/id/Arduino-password-lock/)  
+
 ---
 
-##For output  
+## For output  
 
-####1. lock / unlock the door
+#### 1. lock / unlock the door  
 > //TODO**
 
