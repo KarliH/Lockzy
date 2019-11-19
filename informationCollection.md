@@ -29,7 +29,7 @@
 ### For input  
 
 #### 1. Get input
-> //TODO**
+> //TODO
 
 
 
@@ -74,5 +74,5 @@ if (password.evaluate()){
 ## For output  
 
 #### 1. lock / unlock the door  
-> //TODO**
+> //TODO
 
