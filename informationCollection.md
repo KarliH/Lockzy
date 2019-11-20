@@ -2,6 +2,12 @@
 
 ---
 
+## Datasheets
+1. [SN74LS47](https://www.onsemi.com/pub/Collateral/SN74LS47-D.PDF)  
+2. [SN74HC595](https://www.ti.com/lit/ds/symlink/sn74hc595.pdf)  
+
+---
+
 ## Online resource
 
 ### Similar Projects
