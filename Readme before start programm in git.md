@@ -6,7 +6,8 @@ But I will only write the things which my teacher didn't say while I was learnin
 
 ---
 
-### *Important!!* Don't push to `mater` branch before you ensure the entire program can run well, and contain the newest update from other teammates.
+#### *Important!!*   
+Don't push to `mater` branch before you ensure the entire program can run well, and contain the newest update from other teammates.
 
 ---
 
